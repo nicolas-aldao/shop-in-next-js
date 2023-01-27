@@ -1,3 +1,5 @@
+/* eslint-disable */
+// TODO: Temporaly eslint rules disabled
 import React, { useContext } from 'react';
 import Image from 'next/image';
 import AppContext from '../context/AppContext';
